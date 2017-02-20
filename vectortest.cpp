@@ -51,7 +51,7 @@
             cout<<"Enter your Choice: ";
 
             cin>>choice;
-
+ cout << endl; 
             switch(choice)
 
             {
